@@ -1,0 +1,13 @@
+[
+  {
+    "id": "calendar-board",
+    "title": "日历看板",
+    "description": "记录日常与灵感的个人看板，暖米色手帐风日历应用",
+    "cover": "/images/calendar-board.svg",
+    "url": "https://calendar-board-xxx.vercel.app",
+    "tags": ["Vue 3", "Vite", "Tailwind", "Supabase"],
+    "status": "wip",
+    "featured": true,
+    "sort": 100
+  }
+]
