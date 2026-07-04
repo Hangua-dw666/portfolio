@@ -4,7 +4,7 @@
     "title": "日历看板",
     "description": "记录日常与灵感的个人看板，暖米色手帐风日历应用",
     "cover": "/images/calendar-board.svg",
-    "url": "https://calendar-board-dg7thx1w-hangua.vercel.app",
+    "url": "https://calendar-board.vercel.app",
     "tags": ["Vue 3", "Vite", "Tailwind", "Supabase"],
     "status": "wip",
     "featured": true,
