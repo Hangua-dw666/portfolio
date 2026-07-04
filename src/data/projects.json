@@ -8,6 +8,8 @@
     "tags": ["Vue 3", "Vite", "Tailwind", "Supabase"],
     "status": "wip",
     "featured": true,
-    "sort": 100
+    "sort": 100,
+    "iconColor": "#c96442",
+    "iconEmoji": "📅"
   }
 ]
