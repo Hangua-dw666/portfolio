@@ -1,12 +1,12 @@
 <template>
   <header class="fixed top-0 left-0 right-0 h-16 bg-editorial-bg/80 backdrop-blur-sm border-b border-editorial-border z-40">
-    <div class="max-w-7xl mx-auto h-full px-8 flex items-center justify-between">
+    <div class="h-full px-8 flex items-center justify-between">
       <!-- 左：品牌名 -->
       <button
         @click="nav.setView('home')"
         class="font-serif text-xl font-medium text-editorial-ink hover:text-editorial-accent transition-colors"
       >
-        你的名字
+        GuaHub
       </button>
 
       <!-- 右：横向导航链接 -->
