@@ -11,5 +11,18 @@
     "sort": 100,
     "iconColor": "#c96442",
     "iconEmoji": "📅"
+  },
+  {
+    "id": "resume-editor",
+    "title": "简历编辑器",
+    "description": "在线可编辑简历工具，支持实时预览和A4 PDF导出",
+    "cover": "/images/resume-editor.svg",
+    "url": "https://resume-editor-m1u3ga12y-hangua.vercel.app",
+    "tags": ["Vue 3", "Vite", "Tailwind", "jsPDF"],
+    "status": "wip",
+    "featured": true,
+    "sort": 90,
+    "iconColor": "#2563eb",
+    "iconEmoji": "📄"
   }
 ]
